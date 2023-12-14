@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "https://kollege-api.onrender.com",
+  baseURL: "https://highend.onrender.com",
   // "http://localhost:3500",
 
   headers: { "Content-Type": "application/json" },
